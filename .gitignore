@@ -1,0 +1,11 @@
+myenv/
+venv/
+myvenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+myvenv
+dataset
+model_training.ipynb
